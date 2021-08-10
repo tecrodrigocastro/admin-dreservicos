@@ -3,12 +3,12 @@
           <ul class="navbar-nav">
             <li>
               <div class="text-muted small fw-bold text-uppercase px-3">
-                CORE
+                HOME
               </div>
             </li>
             <li>
-              <a href="#" class="nav-link px-3 active">
-                <span class="me-2"><i class="bi bi-speedometer2"></i></span>
+              <a href="index.php" class="nav-link px-3 active">
+                <span class="me-2"><i class="bi bi-house"></i></span>
                 <span>Dashboard</span>
               </a>
             </li>
